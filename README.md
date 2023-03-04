@@ -1,4 +1,4 @@
-# spooling on a jukebox example
+## Spooling on a jukebox example
 
 Spooling is mostly used in the operating system to synchronise access to external resources such as printers or data storage. The incoming requests (from different processes) are stored in a buffer, and a single process then processes them sequentially.
 
